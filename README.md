@@ -38,19 +38,6 @@ El dashboard permite explorar el gasto de compras de 56 hospitales públicos del
 
 ---
 
-## Capturas
-
-### Análisis por Hospital
-![Análisis Hospitales](capturas/analisis_hospitales.png)
-
-### Análisis por Rubro
-![Análisis Rubros](capturas/analisis_rubros.png)
-
-### Tabla de Información
-![Tabla](capturas/tabla_informacion.png)
-
----
-
 ## Contexto académico
 
 Proyecto Final — Curso: Analista de Datos — Power BI  
